@@ -1,30 +1,23 @@
-# React + TypeScript + Vite
+# T03 - HOMEWORK
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## You are required to write a program which converts money into a different currency depending on which currency your customer would like to exchange.
 
-Currently, two official plugins are available:
+The function has already been written for you called 'currencyConverter'.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This function takes in 3 args:
+a) Which currency he currently has
+b) Which currency he would like to exchange to
+c) How much money he would like to convert
 
-## Expanding the ESLint configuration
+Make use of IF statements to determine which currency you should give him including the amount too.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+#### To run the app in the browser, enter the command below into the terminal:
+```
+npm run dev
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+#### You shall do your homework in the App.tsx file
+
+#### If you wish to view everything we went through for recap, you will find the code in the 'DataTypes.tsx' file which is in the components folder
+
+### Due date: Wednesday 22/11/23
