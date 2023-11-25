@@ -9,7 +9,9 @@ a) Which currency he currently has
 b) Which currency he would like to exchange to
 c) How much money he would like to convert
 
-Make use of IF statements to determine which currency you should give him including the amount too.
+- Make use of IF statements to determine which currency you should give him including the amount too.
+
+- After the money has been converted, print out a statement like: 'Mark has exchanged $184 for £148.20
 
 #### To run the app in the browser, enter the command below into the terminal:
 ```
