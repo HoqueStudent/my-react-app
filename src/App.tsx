@@ -7,7 +7,7 @@ function App() {
     const poundsToJunayha: number = 39;
     const dollarToJunayha: number = 31;
 
-    // created variables to extract vslues f.
+    // created variables to extract values from the user.
     let currentCurrency = prompt("What currency do you currently have?");
     let currencyToExchangeTo = prompt(
       "What currency would you like to exchange to?"
