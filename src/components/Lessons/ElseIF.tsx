@@ -1,5 +1,3 @@
-import React from "react";
-
 function ElseIF() {
   let name = prompt("Please enter your name");
   let age = Number(prompt("Please enter your age"));
