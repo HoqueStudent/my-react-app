@@ -1,3 +1,5 @@
+// Lesson 2
+
 function NumericalOperators() {
   /* 
   Below there are functions for each numerical operator we went over, some of these functions have variables already created for you,

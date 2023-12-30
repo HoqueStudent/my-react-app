@@ -1,3 +1,5 @@
+// Lesson 7
+
 function Booleans() {
   // Created a function called (themeParkAdmision) which takes in three args/params.
   function themeParkAdmission(
@@ -23,7 +25,7 @@ function Booleans() {
         `Hello ${name}, you are ${age} years old and do not have a guardian present, therefore, you are not permitted to board this ride.`
       );
 
-      // If non of the above conditions are met, print the statment below.
+      // If none of the above conditions are met, print the statment below.
     } else {
       console.log("Sorry, invalid request.");
     }
@@ -34,6 +36,7 @@ function Booleans() {
   themeParkAdmission("Mike", 18, false);
   themeParkAdmission("Luke", 17, true);
   themeParkAdmission("John", 17, false);
+
   return <div>Booleans</div>;
 }
 

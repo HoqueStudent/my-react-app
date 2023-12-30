@@ -1,3 +1,5 @@
+// Task 2
+
 function Quadrilaterals() {
   // created vars and asigned values to it
   let side1: number = 20;

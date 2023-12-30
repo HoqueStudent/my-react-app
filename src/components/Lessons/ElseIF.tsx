@@ -1,3 +1,5 @@
+// Lesson 3
+
 function ElseIF() {
   let name = prompt("Please enter your name");
   let age = Number(prompt("Please enter your age"));

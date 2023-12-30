@@ -1,3 +1,5 @@
+// Lesson 6
+
 function SwitchStatement() {
   /* 
     Description: A Switch Statement (switch/case) is similar to an if statement where it is used for conditional programming, the structure of a Switch 
